@@ -1,0 +1,19 @@
+{
+  "feature_columns": [
+    "inflow_5m",
+    "outflow_5m",
+    "outflow_ratio_5m",
+    "distinct_downstream_5m",
+    "tx_count_5m",
+    "avg_tx_amount",
+    "account_age_days",
+    "report_density"
+  ],
+  "threshold": 6.501163482666016,
+  "metrics": {
+    "roc_auc": 0.9913513513513513,
+    "precision": 0.75,
+    "recall": 1.0,
+    "f1": 0.8571428571428571
+  }
+}

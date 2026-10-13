@@ -1,0 +1,415 @@
+report_id,target_upi,report_text,category
+R000000,mule012@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000001,mule012@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000002,mule012@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000003,mule012@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000004,user0016@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000005,user0016@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000006,user0019@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000007,mule025@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000008,mule025@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000009,mule025@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000010,user0031@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000011,mule035@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000012,mule035@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000013,mule035@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000014,mule035@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000015,user0037@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000016,user0040@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000017,mule041@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000018,mule041@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000019,user0044@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000020,user0047@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000021,mule049@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000022,mule049@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000023,mule049@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000024,mule049@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000025,mule049@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000026,mule049@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000027,mule049@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000028,mule053@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000029,mule053@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000030,mule053@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000031,mule053@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000032,mule053@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000033,user0054@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000034,user0059@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000035,mule064@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000036,mule064@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000037,mule064@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000038,mule064@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000039,mule064@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000040,mule064@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000041,mule064@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000042,mule066@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000043,mule066@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000044,mule071@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000045,mule077@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000046,mule077@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000047,user0081@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000048,user0090@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000049,user0090@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000050,mule097@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000051,mule097@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000052,mule097@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000053,mule097@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000054,mule097@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000055,mule097@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000056,mule097@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000057,mule097@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000058,mule099@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000059,mule099@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000060,mule099@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000061,mule099@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000062,mule099@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000063,user0101@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000064,user0107@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000065,user0111@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000066,user0118@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000067,user0119@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000068,user0127@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000069,mule129@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000070,mule129@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000071,mule129@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000072,mule129@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000073,mule129@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000074,user0138@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000075,mule140@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000076,mule140@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000077,mule140@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000078,mule140@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000079,mule151@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000080,mule151@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000081,mule151@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000082,mule151@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000083,mule151@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000084,mule151@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000085,mule151@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000086,mule151@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000087,mule151@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000088,mule154@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000089,mule154@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000090,mule154@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000091,mule154@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000092,user0158@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000093,user0164@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000094,mule176@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000095,mule176@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000096,mule176@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000097,mule176@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000098,mule176@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000099,mule176@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000100,mule176@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000101,mule176@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000102,user0177@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000103,user0179@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000104,user0182@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000105,user0183@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000106,user0187@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000107,user0191@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000108,user0193@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000109,user0201@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000110,user0207@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000111,mule216@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000112,mule216@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000113,mule216@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000114,mule216@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000115,mule216@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000116,user0226@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000117,user0227@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000118,user0243@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000119,user0258@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000120,user0263@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000121,user0271@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000122,user0274@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000123,user0275@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000124,user0278@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000125,mule279@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000126,mule279@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000127,mule279@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000128,mule279@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000129,mule279@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000130,mule279@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000131,mule279@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000132,user0281@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000133,user0282@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000134,mule284@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000135,mule284@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000136,mule284@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000137,mule284@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000138,mule284@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000139,user0288@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000140,mule290@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000141,mule290@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000142,user0294@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000143,user0294@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000144,user0294@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000145,user0303@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000146,user0309@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000147,mule310@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000148,mule310@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000149,mule310@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000150,mule310@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000151,mule310@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000152,user0311@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000153,user0317@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000154,mule324@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000155,mule324@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000156,mule324@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000157,mule328@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000158,mule328@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000159,mule328@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000160,mule328@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000161,mule328@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000162,user0331@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000163,user0335@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000164,mule343@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000165,mule343@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000166,mule343@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000167,mule343@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000168,mule343@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000169,mule343@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000170,mule343@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000171,mule344@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000172,mule344@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000173,mule344@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000174,mule344@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000175,mule344@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000176,mule344@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000177,user0345@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000178,user0346@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000179,mule349@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000180,mule349@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000181,mule349@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000182,mule349@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000183,mule349@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000184,mule349@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000185,mule349@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000186,mule349@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000187,mule349@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000188,mule349@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000189,mule352@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000190,mule352@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000191,user0358@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000192,user0364@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000193,user0365@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000194,mule372@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000195,mule372@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000196,mule382@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000197,mule382@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000198,mule382@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000199,user0387@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000200,mule390@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000201,mule390@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000202,mule390@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000203,mule397@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000204,mule397@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000205,mule397@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000206,mule397@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000207,mule397@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000208,user0414@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000209,user0418@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000210,user0420@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000211,user0420@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000212,mule421@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000213,mule421@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000214,mule421@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000215,mule421@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000216,mule421@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000217,user0426@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000218,user0427@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000219,mule431@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000220,mule431@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000221,user0436@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000222,user0436@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000223,user0437@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000224,user0439@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000225,user0452@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000226,user0454@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000227,user0454@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000228,user0455@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000229,user0462@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000230,user0471@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000231,user0474@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000232,user0474@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000233,user0479@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000234,mule488@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000235,mule488@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000236,mule488@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000237,mule488@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000238,mule488@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000239,user0491@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000240,mule495@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000241,mule495@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000242,mule495@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000243,mule495@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000244,mule495@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000245,mule495@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000246,mule495@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000247,mule495@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000248,user0515@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000249,user0516@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000250,user0516@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000251,user0523@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000252,mule524@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000253,mule524@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000254,mule524@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000255,mule524@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000256,mule524@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000257,mule524@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000258,user0526@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000259,user0531@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000260,mule537@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000261,mule537@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000262,mule537@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000263,mule537@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000264,user0542@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000265,mule544@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000266,mule544@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000267,mule544@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000268,user0545@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000269,user0547@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000270,mule551@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000271,mule551@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000272,mule551@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000273,user0552@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000274,user0554@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000275,mule556@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000276,mule556@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000277,mule556@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000278,mule556@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000279,user0567@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000280,user0567@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000281,user0575@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000282,mule576@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000283,mule576@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000284,mule576@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000285,mule576@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000286,mule577@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000287,mule577@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000288,mule577@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000289,mule577@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000290,mule577@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000291,mule577@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000292,mule577@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000293,mule577@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000294,user0578@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000295,user0580@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000296,user0594@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000297,mule595@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000298,mule595@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000299,mule595@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000300,mule595@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000301,mule595@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000302,mule595@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000303,mule597@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000304,mule597@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000305,mule601@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000306,mule601@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000307,mule601@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000308,mule601@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000309,mule601@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000310,mule601@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000311,mule604@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000312,mule604@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000313,mule604@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000314,mule604@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000315,user0615@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000316,mule618@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000317,mule618@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000318,mule618@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000319,mule618@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000320,mule618@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000321,mule618@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000322,mule618@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000323,user0631@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000324,user0632@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000325,mule635@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000326,mule635@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000327,mule635@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000328,mule635@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000329,mule640@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000330,mule640@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000331,mule640@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000332,mule643@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000333,mule643@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000334,user0644@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000335,user0644@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000336,user0645@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000337,user0645@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000338,mule647@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000339,mule647@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000340,mule647@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000341,mule647@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000342,user0650@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000343,user0652@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000344,user0656@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000345,user0661@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000346,user0662@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000347,mule670@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000348,mule670@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000349,mule670@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000350,mule670@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000351,user0676@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000352,user0678@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000353,user0680@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000354,user0681@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000355,user0687@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000356,mule691@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000357,mule691@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000358,mule691@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000359,mule691@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000360,mule691@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000361,mule691@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000362,user0692@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000363,user0695@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000364,mule707@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000365,mule707@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000366,mule707@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000367,mule707@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000368,mule707@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000369,mule707@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000370,mule707@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000371,mule707@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000372,mule707@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000373,user0709@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000374,mule711@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000375,mule711@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000376,mule711@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000377,mule711@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000378,mule711@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000379,user0714@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000380,user0732@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000381,user0733@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000382,user0734@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000383,user0734@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000384,user0736@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000385,mule737@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000386,mule737@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000387,user0747@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000388,user0761@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000389,mule766@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000390,mule766@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000391,mule766@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000392,mule766@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000393,mule766@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000394,user0767@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000395,mule776@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000396,mule776@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000397,mule776@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000398,mule776@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000399,mule776@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000400,mule783@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000401,mule783@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000402,mule783@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000403,mule783@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000404,mule783@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000405,mule783@upi,Impersonation scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000406,user0797@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
+R000407,mule798@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000408,mule798@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Investment Scam
+R000409,mule798@upi,KYC Scam scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000410,mule798@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Impersonation
+R000411,mule798@upi,Investment Scam scam reported; recipient requested urgent transfer and impersonated an authority.,KYC Scam
+R000412,mule798@upi,Fake Collect scam reported; recipient requested urgent transfer and impersonated an authority.,Fake Collect
+R000413,mule798@upi,Digital Arrest scam reported; recipient requested urgent transfer and impersonated an authority.,Digital Arrest
